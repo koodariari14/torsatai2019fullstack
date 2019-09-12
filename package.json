@@ -1,0 +1,23 @@
+{
+  "name": "torstai_2019_karttaprojekti_ajh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koodariari14/torsatai2019fullstack.git"
+  },
+  "author": "Ari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koodariari14/torsatai2019fullstack/issues"
+  },
+  "homepage": "https://github.com/koodariari14/torsatai2019fullstack#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
